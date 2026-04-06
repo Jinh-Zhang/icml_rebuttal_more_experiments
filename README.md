@@ -1,4 +1,5 @@
 **Car**
+
 DEVIANT
 
 |        | Gauss. | Shot  | Impul. | Defoc. | Glass | Motion | Snow  | Frost | Fog   | Brit. | Contr. | Pixel | Sat.  | Avg.  |
